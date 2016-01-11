@@ -12,7 +12,7 @@ show.add text title: "Incoming", content: <<-LIST
   * executing remote commands 
   * configs 
   * authorized_keys
-LIST 
+LIST
 
 show.add code language: "Ruby", source: <<-SOURCE
   puts "Hello, world!"
