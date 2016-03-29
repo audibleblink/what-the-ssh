@@ -47,6 +47,7 @@ An outline of a keynote delivered in 2016. Slides are executable with `bundle &&
   - ~.
   - ~z
   - ~C
+  - ~?
 
 
 ## Resources
@@ -55,3 +56,4 @@ An outline of a keynote delivered in 2016. Slides are executable with `bundle &&
   - [explainshell](http://explainshell.com)
   - [Digital Ocean SSH Rundown](http://j.mp/1SZpWbd)
   - [Black Magic of SSH (Vimeo)](http://vimeo.com/54505525)
+  - [Diffe-Hellman Video](https://www.youtube.com/watch?v=YEBfamv-_do)
